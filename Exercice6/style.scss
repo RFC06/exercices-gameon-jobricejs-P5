@@ -1,0 +1,14 @@
+// Variable pour la couleur bleue
+$blue: #007bff;
+
+ul {
+    list-style-type: none; // Supprime les puces de la liste
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    color: $blue; // Applique la couleur de texte bleue
+    padding-left: 10px; // Ajoute un espacement intérieur de 10 pixels à gauche
+    margin-bottom: 15px; // Ajoute une marge inférieure de 15 pixels
+}
